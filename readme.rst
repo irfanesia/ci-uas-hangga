@@ -1,5 +1,6 @@
 uas web
 kelompok: 
--hangga
--zainu 
--mardo
+- hangga
+- Irfan
+- zainu 
+- mardo
